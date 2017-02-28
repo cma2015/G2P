@@ -72,7 +72,7 @@ rrBLUP_model <- GSReModel(markers = Markers,pheVal = phenotype,modelMethods = "r
 machine_model <- GSmachine(markers = Markers, pheVal = phenotype, modelMethods = "RFC",
                            posPercentage = 0.4, ntree = 500)
 ```
-#### predict 
+#### Predict 
 ```R
 res <- predictGS(testMat = Markers[1:20,], trainModel = rrBLUP_model, modelMethods = "rrBLUP")
 ```
