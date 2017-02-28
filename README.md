@@ -1,4 +1,4 @@
-# ___G2P___ <br>
+# ___G2P : Genotypes to phenotypes___<br>
 ![](https://halobi.com/wp-content/uploads/2016/08/r_logo.png "R logo")
 ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvCvZWbl922EJkjahQ5gmTpcvsYr3ujQBpMdyX-YG99vGWfTAmfw "linux logo")
 ![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3RzhXKSfXpWhWhvClckwi1Llj1j3HvjKpjvU8CQv4cje23TwS "windows logo")
@@ -8,7 +8,7 @@ which includes 15 GS algorithms and 13 evaluation measurements. G2P provide a co
 for _Genomic Selection_ researchers.
 <br>
 ## Version and download <br>
-* [Version 1.0](https://github.com/cma2015/DeepGS/blob/master/DeepGS_1.0.tar.gz) -First version released on Feb, 28th, 2017<br>
+* [Version 1.0](https://github.com/cma2015/G2P/blob/master/G2P_1.0.tar.gz) -First version released on Feb, 28th, 2017<br>
 
 ## Installation <br>
 ```R
