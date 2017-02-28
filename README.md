@@ -1,4 +1,4 @@
-# ___G2P : Genotypes to phenotypes___<br>
+# ___G2P : Genotypes to Phenotypes___<br>
 ![](https://halobi.com/wp-content/uploads/2016/08/r_logo.png "R logo")
 ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvCvZWbl922EJkjahQ5gmTpcvsYr3ujQBpMdyX-YG99vGWfTAmfw "linux logo")
 ![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3RzhXKSfXpWhWhvClckwi1Llj1j3HvjKpjvU8CQv4cje23TwS "windows logo")
@@ -46,7 +46,7 @@ install _"rgl"_ and _"pheatmap"_. <br>
 * Cross validation <br>
 * Feature selection <br>
 * Results display <br>
-* [User manual](https://github.com/cma2015/DeepGS/blob/master/DeepGS.pdf)<br>
+* Package help<br>
 
 #### GS algorithms (15)
 BayesA, BayesB, BayesC, BRR, BL, RKHS, RR, rrBLUP, GBLUP, RFC, RFR, SVC, SVR, SPLS, LASSO, BRNN <br>
@@ -92,4 +92,4 @@ evaluareTest <- evaluateGS(realScores = predMartix[,1], predScores = predMartix[
 ```
 
 ## Ask questions
-Please use [DeepGS/issues](https://github.com/cma2015/G2P/issues) for how to use DeepGS and reporting bugs
+Please use [G2P/issues](https://github.com/cma2015/G2P/issues) for how to use DeepGS and reporting bugs
