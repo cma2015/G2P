@@ -56,7 +56,7 @@ Pearson correlation, Kendall rank correlation, Spearman Correlation, Mean square
 Normalized discounted cumulative gain (NDCG), meanNDCG, AUC, AUCpr, F1, Kappa, Relative efficiency (RE), Accuracy <br>
 
 ## Quick start
-More details please see download  [G2P]() see help in R.<br>
+More details please install [G2P](https://github.com/cma2015/G2P/blob/master/G2P_1.0.tar.gz) and see help in R.<br>
 
 #### Do cross validation by using _G2P_ function 
 ```R
