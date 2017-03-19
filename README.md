@@ -33,7 +33,7 @@ Please assure that you have installed all depends packages before you use G2P <b
 * pheatmap(>= 1.0.8)
 <br>
 This two packages for result display, if you want use function "result_diplay()" in G2P,please assure you have
-install *rgl* and *pheatmap*. <br>
+install *rgl and *pheatmap. <br>
 
 ## Contents
 
