@@ -14,8 +14,6 @@ for _Genomic Selection_ researchers.
 ```R
 install.package("Download path/G2P_1.0.tar.gz")
 ```
-<br>
-
 ## Depends <br>
 * [R](https://www.r-project.org/) (>= 3.3.1)
 * BGLR(>= 2.10)
@@ -35,7 +33,7 @@ Please assure that you have installed all depends packages before you use G2P <b
 * pheatmap(>= 1.0.8)
 <br>
 This two packages for result display, if you want use function "result_diplay()" in G2P,please assure you have
-install _"rgl"_ and _"pheatmap"_. <br>
+install _rgl_ and _pheatmap_. <br>
 
 ## Contents
 
