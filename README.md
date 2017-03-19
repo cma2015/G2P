@@ -13,7 +13,9 @@ for _Genomic Selection_ researchers.
 ## Installation <br>
 ```R
 install.package("Download path/G2P_1.0.tar.gz")
-```<br>
+```
+<br>
+
 ## Depends <br>
 * [R](https://www.r-project.org/) (>= 3.3.1)
 * BGLR(>= 2.10)
