@@ -352,10 +352,13 @@ The second panel including G2P, G2P cross validation and evalation parameter set
 The third panel including visulization of G2P cross validation and evaluation results.
 ![](https://github.com/cma2015/G2P/blob/master/vignettes/%E5%9B%BE%E7%89%874.png)
 Result table
-![](http://pan.baidu.com/s/1jI22rga)
+![](https://github.com/cma2015/G2P/blob/master/vignettes/table.png)
 Plots:
-![](http://pan.baidu.com/s/1slsKAgl)
-![](http://pan.baidu.com/s/1jH4TPMA)
+![](https://github.com/cma2015/G2P/blob/master/vignettes/visualScatter.png)
+![](https://github.com/cma2015/G2P/blob/master/vignettes/visualLine.png)
+![](https://github.com/cma2015/G2P/blob/master/vignettes/visualBar.png)
+![](https://github.com/cma2015/G2P/blob/master/vignettes/visualHeat1.png)
+![](https://github.com/cma2015/G2P/blob/master/vignettes/visualHeat2.png)
 #### Tab panel 4 
 The last tab panel includes this user manual.
 
