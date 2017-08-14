@@ -346,9 +346,9 @@ The first panel including G2P data input and quality control
 ![](https://github.com/cma2015/G2P/blob/master/vignettes/%E5%9B%BE%E7%89%873.png)
 Input data example
 ##### Markers structure
-![]()
+![](https://github.com/cma2015/G2P/blob/master/vignettes/markers.png)
 ##### Phenotype structure
-![]()
+![](https://github.com/cma2015/G2P/blob/master/vignettes/phenotypes.png)
 #### Tab panel 2
 The second panel including G2P, G2P cross validation and evalation parameter setting and runing.
 ![](https://github.com/cma2015/G2P/blob/master/vignettes/panel2.png)
