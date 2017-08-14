@@ -9,7 +9,7 @@ for _Genomic Selection_ researchers.Besides, G2P also provide a interactive UI b
 <br>
 ## Version and download <br>
 * [Version 1.0](https://github.com/cma2015/G2P/blob/master/G2P_1.0.tar.gz) -First version released on Feb, 28th, 2017<br>
-* [Version 1.1](https://github.com/cma2015/G2P/blob/master/G2P_1.1.tar.gz) -Second version released on August, 14th, 2017<br>
+* [Version 1.1](https://github.com/cma2015/G2P/blob/master/G2P_1.1.0.tar.gz) -Second version released on August, 14th, 2017<br>
 ## Depends <br>
 * [R](https://www.r-project.org/) (>= 3.3.1)
 * BGLR(>= 2.10)
@@ -344,7 +344,9 @@ The App is opened in the default web browser. Users can upload input datasets, s
 The first panel including G2P data input and quality control
 ![](https://github.com/cma2015/G2P/blob/master/vignettes/%E5%9B%BE%E7%89%871.png)
 ![](https://github.com/cma2015/G2P/blob/master/vignettes/%E5%9B%BE%E7%89%873.png)
-
+Input data example
+![]()
+![]()
 #### Tab panel 2
 The second panel including G2P, G2P cross validation and evalation parameter setting and runing.
 ![](https://github.com/cma2015/G2P/blob/master/vignettes/panel2.png)
