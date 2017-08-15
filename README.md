@@ -50,7 +50,8 @@ install.packages(c("BGLR", "PRROC","e1071","glmnet","spls","randomForest","rrBLU
 ```
 ### Install G2P
 ```R
-install.package("Download path/G2P_1.1.tar.gz")
+install.packages("path/G2P_1.1.0.tar.gz", repos = NULL, type = "source")
+# The path cant including space.
 ```
 ### Install suggested packages
 ```R
