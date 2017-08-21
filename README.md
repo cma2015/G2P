@@ -367,4 +367,4 @@ Plots:
 #### Tab panel 4 
 The last tab panel includes this user manual.
 ## Ask questions
-Please use [G2P/issues](https://github.com/cma2015/G2P/issues) for how to use DeepGS and reporting bugs.
+Please use [G2P/issues](https://github.com/cma2015/G2P/issues) for how to use G2P and reporting bugs.
