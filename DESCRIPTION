@@ -1,0 +1,17 @@
+Package: G2P
+Title: Genomic Selection Prediction and Evalution
+Version: 1.4.0
+Authors@R: c(person("Chuang", "Ma", email = "chuangma2006@gmail.com", role = c("aut", "cre")),
+	     person("Qian", "Cheng", email = "qchengray@gmail.com",role = c("aut")))
+Description: This package provide a platform for Genomic Selection.Researchers could apply this package to GS modeling as well as Prediction and results evalution.
+Depends: R (>= 3.2.0)
+Imports:BGLR (>= 1.0.5), PRROC(>= 1.1), e1071(>= 1.6-7), glmnet(>= 2.0), randomForest(>= 4.6-12), rrBLUP(>= 4.4), snowfall(>= 1.84-6.1), spls(>= 2.2-1), brnn(>= 0.6), sommer(>= 3.0), hglm(>= 2.1-1), hglm.data(>= 1.0-0)
+License: GPL-2|GPL-3
+Suggests: rgl(>= 0.97.0), pheatmap(>= 1.0.8), impute(>= 1.46.0)
+LazyData: true
+RoxygenNote: 6.0.1
+NeedsCompilation: no
+Encoding: UTF-8
+Packaged: 2017-09-25 13:51:08 UTC; Cheng
+Author: Chuang Ma [aut, cre], Qian Cheng[cre], Zhixu Qiu
+Maintainer: Chuang Ma <chuangma2006@gmail.com>, Qian Cheng<qchengray@gmail.com>
