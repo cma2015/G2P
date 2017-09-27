@@ -2,6 +2,7 @@
 ![](https://halobi.com/wp-content/uploads/2016/08/r_logo.png "R logo")
 ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvCvZWbl922EJkjahQ5gmTpcvsYr3ujQBpMdyX-YG99vGWfTAmfw "linux logo")
 ![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3RzhXKSfXpWhWhvClckwi1Llj1j3HvjKpjvU8CQv4cje23TwS "windows logo")
+![](https://tctechcrunch2011.files.wordpress.com/2014/06/apple_topic.png?w=220)
 <br>
 The R package "G2P" is an integrated _Genomic Selection_ (GS) package for predicting phenotypes from genotypes,
 which includes 20 GS algorithms and 13 evaluation measurements. G2P provide a comprehensive but easy-to-use platform  
